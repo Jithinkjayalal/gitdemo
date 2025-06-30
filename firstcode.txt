@@ -1,1 +1,2 @@
 haihello
+take input from the user
